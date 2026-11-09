@@ -40,7 +40,7 @@ translate(width / 2 - 275, height / 2 - 365);
     rect(mouseX, mouseY, tamanho, tamanho);
   } else {
     circle(mouseX, mouseY, tamanho);
-    //se pressionar vira um rect se não continua um circulo.
+    //se pressionar vira um quadrado se não continua um circulo.
   }
 
 }
